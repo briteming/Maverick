@@ -5,7 +5,7 @@
 # For Maverick
 site_prefix = "/"
 template = "Galileo"
-index_page_size = 10
+index_page_size = 5
 archives_page_size = 30
 fetch_remote_imgs = False
 enable_jsdelivr = {
